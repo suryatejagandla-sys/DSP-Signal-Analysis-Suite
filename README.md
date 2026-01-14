@@ -1,4 +1,16 @@
-# Digital Signal Processing - Theory and Computational Examples
+# Personal Project: Advanced Digital Signal Processing Suite
+**Author:** Surya Teja Gandla  
+**Focus:** R&D in Spectral Analysis, Filter Design, and Signal Quantization
+
+---
+
+## My Focus & Learning Objectives
+I utilized this comprehensive suite of computational notebooks to deepen my understanding of core ECE concepts relevant to R&D roles. My work focused on:
+* **Quantization Effects:** Analyzing how bit-depth impacts signal integrity in embedded systems.
+* **Filter Realization:** Comparing recursive (IIR) and non-recursive (FIR) structures for real-time conditioning.
+* **Spectral Estimation:** Implementing FFT-based analysis for random and deterministic signals.
+
+---# Digital Signal Processing - Theory and Computational Examples
 
 [![Linting](https://github.com/spatialaudio/digital-signal-processing-lecture/actions/workflows/lint_nb.yml/badge.svg?branch=master)](https://github.com/spatialaudio/digital-signal-processing-lecture/actions/workflows/lint_nb.yml) 
 [![Run Notebooks](https://github.com/spatialaudio/digital-signal-processing-lecture/actions/workflows/run_nb.yml/badge.svg?branch=master)](https://github.com/spatialaudio/digital-signal-processing-lecture/actions/workflows/run_nb.yml) 
